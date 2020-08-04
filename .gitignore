@@ -1,7 +1,7 @@
 .gradle
 .idea
 
-application-oauth
+application-oauth.properties
 
 build
 out
